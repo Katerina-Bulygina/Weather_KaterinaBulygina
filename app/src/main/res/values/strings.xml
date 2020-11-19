@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather_KaterinaBulygina</string>
+    <string name="top_img_desc">City</string>
+    <string name="top_txt_hint">City</string>
+    <string name="icon_img_desc">desc</string>
+    <string name="txt_temp">temp</string>
+</resources>
